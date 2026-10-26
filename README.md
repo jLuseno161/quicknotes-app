@@ -13,6 +13,7 @@ QuickNotes is a simple note-taking web app built with plain HTML, CSS and JavaSc
 - Note count that reads correctly for zero, one and many notes
 - Notes saved to localStorage so they survive a refresh
 - Responsive layout that stacks the form on small screens
+- "Clear all" button with a confirmation prompt
 
 ## How to run locally
 

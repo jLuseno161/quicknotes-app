@@ -177,6 +177,15 @@ button:hover {
   background-color: #8e1c1c;
 }
 
+#clear-all-btn {
+  margin-bottom: 16px;
+  background-color: #c62828;
+}
+
+#clear-all-btn:hover {
+  background-color: #8e1c1c;
+}
+
 .empty-message {
   color: #777;
   font-style: italic;
