@@ -92,7 +92,7 @@ function render() {
   }
 
   updateCount();
-  clearAllBtn.hidden = notes.length === 1;
+  clearAllBtn.hidden = notes.length === 0;
 }
 
 // ---------- Task 3 and 4: add (with validation) ----------
